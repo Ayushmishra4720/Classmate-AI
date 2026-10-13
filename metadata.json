@@ -1,0 +1,6 @@
+{
+  "name": "Classmate AI",
+  "description": "Your Personal Student Companion. One App. Every Student Need. Powered by AI. Created by Ayush.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
